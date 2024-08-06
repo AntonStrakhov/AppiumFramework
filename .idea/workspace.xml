@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f373497e-eaad-4ad8-aebb-0d38c774694a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApiDemos-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/General-Store.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/global.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/FormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/Preferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/startEmulator.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ApiDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/EcommerceTC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2juJ0KiN2k5eXlHyUHTm8RMO9Ti" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/astonuser/IdeaProjects/AppiumFramework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework" />
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src\main\java\resources" />
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src" />
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src\test" />
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src\test\java" />
+      <recent name="C:\Users\astonuser\IdeaProjects\AppiumFramework\src\test\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObject" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/astonuser/IdeaProjects/AppiumFramework/testng.xml">
+    <configuration name="ApiDemoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ApiDemoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiDemoTest.maiApiDemon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ApiDemoTest" />
+      <option name="METHOD_NAME" value="maiApiDemon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/astonuser/IdeaProjects/AppiumFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/AppiumFramework/testng.xml" />
+        <item itemvalue="TestNG.ApiDemoTest.maiApiDemon" />
+        <item itemvalue="TestNG.ApiDemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f373497e-eaad-4ad8-aebb-0d38c774694a" name="Changes" comment="" />
+      <created>1722230805697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722230805697</updated>
+    </task>
+    <servers />
+  </component>
+</project>
